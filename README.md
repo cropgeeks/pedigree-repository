@@ -15,7 +15,7 @@ Repository
 │   │   │   pedigree.helium
 │   │   │   trait-data.helium
 │   │   └─────────────────────
-│   └───publication1
+│   └───publication2
 |       |   LICENSE
 │       │   README.md
 │       │   pedigree.helium
