@@ -8,7 +8,7 @@
       "description": "Genomic resources for a historical collection of cultivated two-row European spring barley genotypes.",
       "files": {
         "pedigree": "pedigree.helium",
-        "traits": ["trait-data.helium"],
+        "traits": ["trait-data.txt"],
         "image": "banner.jpg"
       },
       "createdOn": "2024-01-12"
