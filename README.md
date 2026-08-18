@@ -49,38 +49,52 @@ Each dataset folder should contain a single `index.json` file of the following f
 
 | Field | Type | Required | Description |
 | :--- | :--- | :--- | :--- |
-| `title` | `string` | Yes | Human-readable titleof the dataset. |
-| `description` | `string` | No | Human-readable coverage scope of the dataset. |
-| `files.pedigree` | `string` | Yes | Path to the `.helium`/`.txt` pedigree file. |
-| `files.traits` | `array[string]` | No | List of `.helium`/`.txt` trait dataset files associated with the pedigree. |
+| `title` | `string` | Yes | Human-readable title of this study. |
+| `description` | `string` | No | Human-readable description of this study. |
 | `createdOn` | `string` | Yes | ISO 8601 date or UTC timestamp of creation. |
+| `createdOn` | `string` | No | URL to an external resource (e.g. a database or website). |
+| `data` | `array[entry]` | Yes | List of data resources available for this study. |
+| `data.title` | `string` | Yes | Human-readable title of the dataset. |
+| `data.description` | `string` | No | Human-readable coverage scope of the dataset. |
+| `data.files.pedigree` | `string` | Yes | Path to the `.helium`/`.txt` pedigree file. |
+| `data.files.traits` | `array[string]` | No | List of `.helium`/`.txt` trait dataset files associated with the pedigree. |
+| `data.files.image` | `string` | No | An image file that can be used by client applications as a banner for this dataset. |
+| `data.createdOn` | `string` | Yes | ISO 8601 date or UTC timestamp of creation. |
 
 Here is an example:
 
 ```json
-[
-  {
-    "title": "Global pedigree dataset",
-    "description": "Global barley pedigree",
-    "files": {
-      "pedigree": "full-pedigree.helium",
-      "traits": ["trait-data.helium"]
+{
+  "title": "Barley pedigree from study XYY937592u",
+  "description": "",
+  "createdOn": "2026-08-17",
+  "externalLink": "https://github.com/cropgeeks/pedigree-repository/tree/main/barley/test",
+  "data": [
+    {
+      "title": "Global pedigree dataset",
+      "description": "Global barley pedigree",
+      "files": {
+        "pedigree": "full-pedigree.helium",
+        "traits": ["trait-data.helium"],
+        "image": "banner.jpg"
+      },
+      "createdOn": "2026-08-17"
     },
-    "createdOn": "2026-08-17"
-  },
-  {
-    "title": "UK pedigree dataset",
-    "description": "Subset of the pedigree restricted to UK breeders",
-    "files": {
-      "pedigree": "uk-pedigree.helium",
-      "traits": ["trait-data.helium"]
-    },
-    "createdOn": "2026-09-12T09:12:37Z"
-  }
-]
+    {
+      "title": "UK pedigree dataset",
+      "description": "Subset of the pedigree restricted to UK breeders",
+      "files": {
+        "pedigree": "uk-pedigree.helium",
+        "traits": ["trait-data.helium"],
+        "image": "banner.jpg"
+      },
+      "createdOn": "2026-09-12T09:12:37Z"
+    }
+  ]
+}
 ```
 
-In this example, we have two pedigree datasets within this folder. The first set is a pedigree file that contains the whole global pedigree. It's associated with a single trait data file. The second dataset contains a subset of the global pedigree restricted to UK breeders. The same trait data file is associated with this pedigree.
+In this example, we have a study containing barley pedigree data created in August 2026. The external URL just links to the repository itself, but could link to a database or website. There are we have two pedigree datasets within this folder. The first set is a pedigree file that contains the whole global pedigree. It's associated with a single trait data file. The second dataset contains a subset of the global pedigree restricted to UK breeders. The same trait data file is associated with this pedigree.
 
 The `pedigree` and `traits` files can have arbitraty names, but the `index.json` file has to have this exact name per folder.
 

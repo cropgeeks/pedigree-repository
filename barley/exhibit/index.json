@@ -1,11 +1,17 @@
-[
-  {
-    "title": "European HerItage Barley CollecTion (ExHIBiT)",
-    "description": "Unlocking the genetic diversity and population structure of the newly introduced two-row spring European HerItage Barley collecTion (ExHIBiT).",
-    "files": {
-      "pedigree": "pedigree.helium",
-      "traits": ["trait-data.helium"]
-    },
-    "createdOn": "2024-03-20"
-  }
-]
+{
+  "title": "European HerItage Barley CollecTion (ExHIBiT)",
+  "description": "Unlocking the genetic diversity and population structure of the newly introduced two-row spring European HerItage Barley collecTion (ExHIBiT).",
+  "createdOn": "2024-03-20",
+  "data": [
+    {
+      "title": "European HerItage Barley CollecTion (ExHIBiT)",
+      "description": "Unlocking the genetic diversity and population structure of the newly introduced two-row spring European HerItage Barley collecTion (ExHIBiT).",
+      "files": {
+        "pedigree": "pedigree.helium",
+        "traits": ["trait-data.helium"],
+        "image": "banner.jpg"
+      },
+      "createdOn": "2024-03-20"
+    }
+  ]
+}
