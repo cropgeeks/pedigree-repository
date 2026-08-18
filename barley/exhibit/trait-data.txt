@@ -1,0 +1,365 @@
+#input=PHENOTYPE					
+Accession name	Breeding History	Year of release=q	Country of origin	Row type	Included in core collection
+Chevalier Tystofte 2	Landrace		UK	2-row	Yes
+Irish Archer	Landrace		Ireland	2-row	Yes
+Old Irish JHI	Landrace		Ireland	2-row	Yes
+Spratt	Landrace		UK	2-row	Yes
+Beavans 35	Landrace		UK	2-row	No
+Beavans Archer	Landrace		UK	2-row	Yes
+Bjorneby	Landrace		Norway	6-row	No
+Burtons Malting	Landrace		UK	2-row	No
+Cornish	Landrace		UK	2-row	Yes
+Crocket	Landrace		Sweden 	6-row	No
+Erhardt Frederiksens	Landrace		Sweden 	6-row	No
+Golden Drop	Landrace		UK	2-row	No
+Golden Melon	Landrace		UK	2-row	No
+Golden Pheasant	Landrace		UK	2-row	No
+HOR 10555	Landrace		Italy	2-row	Yes
+HOR 11123	Landrace		Italy	2-row	No
+HOR 1943	Landrace		Greece	2-row	Yes
+HOR 4017	Landrace		Yugoslavia	2-row	Yes
+HOR 753	Landrace		Greece	2-row	Yes
+HOR 7537	Landrace		Poland	2-row	No
+HOR 9450	Landrace		Romania	2-row	No
+HOR 7531	Landrace		Poland	2-row	Yes
+KÄÄs	Landrace		Sweden 	2-row	Yes
+Kr Fiinset	Landrace		Norway	6-row	No
+Spratt Archer DAFM	Old cultivar	1919	Ireland	2-row	Yes
+Long Eared Nottingham	Landrace		UK	2-row	Yes
+Mjos	Landrace		Norway	6-row	No
+Morayshire Gold	Landrace		UK	2-row	Yes
+Northumberland Rogue	Landrace		UK	2-row	No
+Old Irish DAFM	Landrace		Ireland	2-row	Yes
+Old Cornish	Landrace		UK	6-row	No
+Old Wiltshire Archer	Landrace		UK	2-row	Yes
+Opdal	Landrace		Norway	6-row	No
+Padstow	Landrace		UK	2-row	Yes
+Pembroke	Landrace		UK	2-row	Yes
+Prize Prolific	Landrace		UK	2-row	Yes
+Refsum	Landrace		Norway	2-row	Yes
+Scottish Annat	Landrace		UK	2-row	No
+Skaneslet	Landrace		Norway	6-row	No
+Solenby	Landrace		UK	6-row	No
+St Davids	Landrace		UK	2-row	Yes
+Swanneck	Landrace		UK	2-row	No
+Trysil	Landrace		Norway	6-row	No
+Tystofte Korsby	Landrace		Denmark 	6-row	No
+Uforaedlet Jamtland	Landrace		Denmark 	6-row	No
+Prentice Abed	Old cultivar	1881	Denmark 	2-row	Yes
+Chevalier Tystofte	Landrace		UK	2-row	No
+Irish Goldthorpe	Old cultivar	1890	Ireland	2-row	Yes
+Hannchen	Old cultivar	1902	Sweden 	2-row	No
+Goldthorpe	Old cultivar	1896	UK	2-row	No
+Prinsess	Old cultivar	1897	Sweden 	2-row	No
+Chevalier II	Old cultivar	1900	Sweden 	2-row	No
+Irish Goldthorpe DAFM	Old cultivar	1890	Ireland	2-row	Yes
+Irish Archer DAFM	Landrace		Ireland	2-row	Yes
+Gull	Old cultivar	1915	Sweden 	2-row	Yes
+Binder	Old cultivar	1916	Denmark 	2-row	Yes
+Binder Abed	Old cultivar	1916	Denmark 	2-row	No
+Spratt Archer	Old cultivar	1919	Ireland	2-row	Yes
+Opal Abed	Old cultivar	1922	Denmark 	2-row	No
+PiikkiÖnohra	Old cultivar	1922	Finland	2-row	Yes
+Urajste 	Old cultivar	1922	Finland	2-row	Yes
+Halikko	Old cultivar	1923	Finland	2-row	Yes
+Isaria	Old cultivar	1924	Germany	2-row	No
+Brage	Old cultivar	1925	Sweden 	2-row	Yes
+Seger	Old cultivar	1926	Sweden 	2-row	Yes
+Maja	Old cultivar	1927	Denmark 	2-row	No
+Kenia WB	Old cultivar	1931	Denmark 	2-row	Yes
+Opal B	Old cultivar	1934	Sweden 	2-row	Yes
+Haisa II	Old cultivar	1939	Germany	2-row	Yes
+Freja	Old cultivar	1941	Sweden 	2-row	Yes
+Balder	Old cultivar	1942	Sweden 	2-row	No
+Helmi	Old cultivar	1942	Finland	2-row	Yes
+Vankkuri	Old cultivar	1943	Finland	2-row	Yes
+Craigs Triumph	Old cultivar	1944	UK	2-row	No
+Tyra	 Elite cultivar	1975	Denmark 	2-row	Yes
+Glasnevin no 5	Old cultivar	1946	Ireland	2-row	Yes
+Carlsberg	Old cultivar	1947	Denmark 	2-row	Yes
+Lenta	Old cultivar	1947	Denmark 	2-row	Yes
+Valticky	Old cultivar	1950	Czech Republic 	2-row	No
+Bonus NGB 	Old cultivar	1952	Sweden 	2-row	No
+Rika	Old cultivar	1951	Sweden 	2-row	No
+Wisa	Old cultivar	1951	Germany	2-row	Yes
+Bonus	Old cultivar	1952	Sweden 	2-row	No
+Domen	Old cultivar	1952	Norway	2-row	Yes
+Beorna	Old cultivar		Ireland	2-row	Yes
+Proctor	Old cultivar	1953	UK	2-row	No
+Beka	Old cultivar	1954	France	2-row	Yes
+Drost	Old cultivar	1954	Denmark 	2-row	Yes
+Union	Old cultivar	1955	Germany	2-row	No
+Ingrid	Old cultivar	1956	Sweden 	2-row	No
+Betzes	Old cultivar	1957		2-row	No
+Volla	Old cultivar	1957	Germany	2-row	No
+Vada	Old cultivar	1958	Netherlands 	2-row	Yes
+Delta	Old cultivar	1959	Netherlands 	2-row	Yes
+Hunter	Old cultivar	1959	Ireland	2-row	Yes
+Hunter DAFM	Old cultivar	1959	Ireland	2-row	Yes
+Mari	Old cultivar	1960	Sweden 	2-row	No
+Emir	 Elite cultivar	1962	Netherlands 	2-row	Yes
+Birgitta	 Elite cultivar	1963	Sweden 	2-row	No
+Balder J	 Elite cultivar	1964	Finland	2-row	No
+Britta	 Elite cultivar	1964	Sweden 	2-row	Yes
+Impala	 Elite cultivar	1964	Netherlands 	2-row	Yes
+Deba Abed	 Elite cultivar	1965	Denmark 	2-row	Yes
+Diamant	 Elite cultivar	1965	Czech Republic 	2-row	No
+Arvo	 Elite cultivar	1966	Finland	2-row	Yes
+Zephyr	 Elite cultivar	1966	Netherlands 	2-row	Yes
+Karri	 Elite cultivar	1967	Finland	2-row	No
+Cilla	 Elite cultivar	1968	Sweden 	2-row	Yes
+Drake	 Elite cultivar	1968	Netherlands 	2-row	Yes
+Golden Promise	 Elite cultivar	1968	UK	2-row	Yes
+Kristina	 Elite cultivar	1968	Sweden 	2-row	No
+Sultan	 Elite cultivar	1968	Netherlands 	2-row	Yes
+Villa	 Elite cultivar	1968	Germany	2-row	Yes
+Wing	 Elite cultivar	1968	Sweden 	2-row	No
+Berac	 Elite cultivar	1969	Netherlands 	2-row	Yes
+Gerkra	 Elite cultivar	1970	Netherlands 	2-row	Yes
+Tardus	 Elite cultivar	1993	Sweden 	2-row	Yes
+Imber	 Elite cultivar	1970	UK	2-row	Yes
+Lofa Abed	 Elite cultivar	1970	Denmark 	2-row	No
+Midas	 Elite cultivar	1970	UK	2-row	Yes
+Hassan	 Elite cultivar	1971	Netherlands 	2-row	Yes
+Mona	 Elite cultivar	1971	Sweden 	2-row	No
+Nordal	 Elite cultivar	1971	Denmark 	2-row	Yes
+Ametyst	 Elite cultivar	1972	Czech Republic 	2-row	No
+Aramir	 Elite cultivar	1972	Netherlands 	2-row	No
+Berenice	 Elite cultivar	1972	France	2-row	No
+Mala Abed	 Elite cultivar	1972	Denmark 	2-row	Yes
+Otto	 Elite cultivar	1972	Italy	2-row	Yes
+Rupal	 Elite cultivar	1972	Sweden 	2-row	Yes
+Stendes	 Elite cultivar	1972	Latvia	2-row	No
+Emma	 Elite cultivar	1972	Netherlands 	2-row	Yes
+Favorit	 Elite cultivar	1973	Czech Republic 	2-row	No
+Georgie	 Elite cultivar	1973	UK	2-row	No
+Hana	 Elite cultivar	1973	Czech Republic 	2-row	Yes
+Maris Mink	 Elite cultivar	1973	UK	2-row	No
+Salka	 Elite cultivar	1973	Denmark 	2-row	Yes
+Abacus	 Elite cultivar	1974	UK	2-row	Yes
+Armelle	 Elite cultivar	1974	France	2-row	Yes
+Senat	 Elite cultivar	1974	Sweden 	2-row	No
+Aapo	 Elite cultivar	1975	Finland	2-row	Yes
+Athos	 Elite cultivar	1975	France	2-row	Yes
+Dina	 Elite cultivar	1975	Denmark 	2-row	Yes
+Okos	 Elite cultivar	1975	Italy	2-row	Yes
+Salve	 Elite cultivar	1975	Sweden 	2-row	No
+Atlas	 Elite cultivar	1976	Czech Republic 	2-row	Yes
+Gitane	 Elite cultivar	1976	Netherlands 	2-row	Yes
+Lud	 Elite cultivar	1976	UK	2-row	Yes
+Rapid	 Elite cultivar	1976	Czech Republic 	2-row	No
+Rondo	 Elite cultivar	1976		6-row	No
+Welam	 Elite cultivar	1976	Sweden 	2-row	No
+Spartan	 Elite cultivar	1977	Czech Republic 	2-row	Yes
+Vegas	 Elite cultivar	1999	Sweden 	2-row	Yes
+Prisca	 Elite cultivar	1977	Sweden 	2-row	Yes
+Abava	 Elite cultivar	1978	Latvia	2-row	No
+Atem	 Elite cultivar	1978	Netherlands 	2-row	Yes
+Harry	 Elite cultivar	1978	Sweden 	2-row	Yes
+Magnif	 Elite cultivar	1978	Argentina	2-row	Yes
+Safir	 Elite cultivar	1978	Czech Republic 	2-row	Yes
+Simon	 Elite cultivar	1978	Sweden 	2-row	No
+Triumph	 Elite cultivar	1978	Germany	2-row	No
+Stange	 Elite cultivar	1978	Norway	2-row	No
+Alva	 Elite cultivar	1979	Sweden 	2-row	Yes
+Kym	 Elite cultivar	1979	UK	2-row	Yes
+Anni	 Elite cultivar	1980	Estonia	2-row	Yes
+Caja	 Elite cultivar	1980	Denmark 	2-row	Yes
+Claret	 Elite cultivar	1980	UK	2-row	No
+Egmont	 Elite cultivar	1980	UK	2-row	Yes
+Havila	 Elite cultivar	1980	Netherlands 	2-row	Yes
+Ida	 Elite cultivar	1980	Sweden 	2-row	No
+Koral	 Elite cultivar	1980	Czech Republic 	2-row	Yes
+Steina	 Elite cultivar	1980	Germany	2-row	Yes
+Tweed	 Elite cultivar	1980	UK	2-row	Yes
+Golf	 Elite cultivar	1980	UK	2-row	Yes
+Birka	 Elite cultivar	1981	Sweden 	2-row	No
+Gorm	 Elite cultivar	1981	Denmark 	2-row	Yes
+Karat	 Elite cultivar	1981	Czech Republic 	2-row	No
+Klaxon	 Elite cultivar	1981	UK	2-row	Yes
+Krystal	 Elite cultivar	1981	Czech Republic 	2-row	No
+Odin	 Elite cultivar	1981	Denmark 	2-row	Yes
+Stirling	 Elite cultivar	1981	Australia	2-row	Yes
+Kustaa	 Elite cultivar	1981	Sweden 	2-row	Yes
+Croydon	 Elite cultivar	1982	Sweden 	2-row	Yes
+Montana	 Elite cultivar	1982	Netherlands 	2-row	No
+Natasha	 Elite cultivar	1982	France	2-row	Yes
+Roland	 Elite cultivar	1982	Sweden 	2-row	Yes
+Rubin	 Elite cultivar	1982	Czech Republic 	2-row	Yes
+Apex	 Elite cultivar	1984	Netherlands 	2-row	No
+Camargue	 Elite cultivar	1983	Germany	2-row	Yes
+Corgi	 Elite cultivar	1983	UK	2-row	Yes
+Corniche	 Elite cultivar	1983	UK	2-row	No
+Ilga	 Elite cultivar	1983	Latvia	2-row	No
+Mars	 Elite cultivar	1983	Czech Republic 	2-row	Yes
+Romi	 Elite cultivar	1983	Denmark 	2-row	No
+Apex2	 Elite cultivar	1983	Netherlands 	2-row	No
+Dandy	 Elite cultivar	1984	UK	2-row	Yes
+Tennis	 Elite cultivar	1984	UK	2-row	Yes
+Alis	 Elite cultivar	1985	Denmark 	2-row	Yes
+Cameo	 Elite cultivar	1985	UK	2-row	No
+Camir	 Elite cultivar	1985	Denmark 	2-row	Yes
+Doublet	 Elite cultivar	1985	UK	2-row	Yes
+Linga	 Elite cultivar	1985	Latvia	2-row	No
+Nemex	 Elite cultivar	1985	Sweden 	2-row	Yes
+Prisma	 Elite cultivar	1985	Sweden 	2-row	Yes
+Tyne	 Elite cultivar	1985	UK	2-row	Yes
+Ursel	 Elite cultivar	1985	Germany	2-row	Yes
+Zenit	 Elite cultivar	1985	Czech Republic 	2-row	Yes
+Lina	 Elite cultivar	1985	Sweden 	2-row	Yes
+Hart	 Elite cultivar	1986	UK	2-row	Yes
+Maresi	 Elite cultivar	1986	Germany	2-row	Yes
+Orbit	 Elite cultivar	1986	Slovakia	2-row	Yes
+Alexis	 Elite cultivar	1987	Germany	2-row	No
+Casino	 Elite cultivar	1987	UK	2-row	Yes
+Cheri	 Elite cultivar	1987	Germany	2-row	Yes
+Formula	 Elite cultivar	1987	Sweden 	2-row	Yes
+Jarek	 Elite cultivar	1987	Czech Republic 	2-row	Yes
+Nomad	 Elite cultivar	1987	UK	2-row	No
+Ria	 Elite cultivar	1987	Austria 	2-row	Yes
+Chad	 Elite cultivar	1988	UK	2-row	Yes
+Clansman	 Elite cultivar	1988	UK	2-row	Yes
+Derkado	 Elite cultivar	1988	Germany	2-row	Yes
+Forester	 Elite cultivar	1988	UK	2-row	Yes
+Novum	 Elite cultivar	1988	Czech Republic 	2-row	Yes
+Perun	 Elite cultivar	1988	Czech Republic 	2-row	Yes
+Decor	 Elite cultivar	1988	UK	2-row	Yes
+Baronesse	 Elite cultivar	1989	Germany	2-row	Yes
+Chariot	 Elite cultivar	1989	UK	2-row	No
+Dallas	 Elite cultivar	1989	UK	2-row	Yes
+Elo	 Elite cultivar	1989	Estonia	2-row	Yes
+Steffi	 Elite cultivar	1989	Germany	2-row	Yes
+Tremois	 Elite cultivar	1989	France	2-row	Yes
+Balga	 Elite cultivar	1990	Latvia	2-row	Yes
+Felicie	 Elite cultivar	1990	UK	2-row	Yes
+Galan	 Elite cultivar	1990	Czech Republic 	2-row	Yes
+Goldie	 Elite cultivar	1990	Sweden 	2-row	No
+Heron	 Elite cultivar	1990	UK	2-row	No
+Meltan	 Elite cultivar	1990	Sweden 	2-row	Yes
+Audio	 Elite cultivar	1991	UK	2-row	Yes
+Brewster	 Elite cultivar	1991	UK	2-row	Yes
+Delibes	 Elite cultivar	1991	UK	2-row	Yes
+Host	 Elite cultivar	1994	UK	2-row	No
+Graphic	 Elite cultivar	1991	Spain 	2-row	No
+Krona	 Elite cultivar	1991	Germany	2-row	Yes
+Maud	 Elite cultivar	1991	Netherlands 	2-row	Yes
+Rasa	 Elite cultivar	1991	Latvia	2-row	Yes
+Terno	 Elite cultivar	1991	Czech Republic 	2-row	Yes
+Akcent	 Elite cultivar	1992	Czech Republic 	2-row	No
+Brahms	 Elite cultivar	1992	UK	2-row	Yes
+Canasta	 Elite cultivar	1992	UK	2-row	Yes
+Cork	 Elite cultivar	1992	UK	2-row	Yes
+Jive	 Elite cultivar	1992	UK	2-row	Yes
+Kinnan	 Elite cultivar	1992	Sweden 	2-row	Yes
+Ladik	 Elite cultivar	1992	Czech Republic 	2-row	Yes
+Quartz	 Elite cultivar	1992	UK	2-row	Yes
+Reggae	 Elite cultivar	1992	Netherlands 	2-row	Yes
+Ruja	 Elite cultivar	1992	Latvia	2-row	Yes
+Trebon	 Elite cultivar	1992	Spain 	2-row	No
+Widre	 Elite cultivar	1992	Austria 	2-row	Yes
+Amber	 Elite cultivar	1992	UK	2-row	Yes
+Primus	Old cultivar	1901	Sweden 	2-row	Yes
+Kenia	Old cultivar	1931	Denmark 	2-row	Yes
+Clarity	 Elite cultivar	1993	UK	2-row	Yes
+Forum	 Elite cultivar	1993	Czech Republic 	2-row	Yes
+Laird	 Elite cultivar	1993	UK	2-row	Yes
+Melitta	 Elite cultivar	1993	Germany	2-row	Yes
+Mentor	 Elite cultivar	1993	Netherlands 	2-row	No
+Mikado	 Elite cultivar	1993	France	2-row	Yes
+Onyx	 Elite cultivar	1993	Germany	2-row	Yes
+Pitcher	 Elite cultivar	1993	UK	2-row	No
+Polygena	 Elite cultivar	1993	Netherlands 	2-row	Yes
+Primera	 Elite cultivar	1993	Netherlands 	2-row	Yes
+Ragtime	 Elite cultivar	1993	Netherlands 	2-row	Yes
+Tankard	 Elite cultivar	1993	Netherlands 	2-row	Yes
+Tarm92	 Elite cultivar	1993		2-row	Yes
+Trinidad	 Elite cultivar	1993	Netherlands 	2-row	Yes
+Trinity	 Elite cultivar	1993	UK	2-row	No
+Wren	 Elite cultivar	1993	UK	2-row	Yes
+Acapella	 Elite cultivar	1994	France	2-row	Yes
+Caminant	 Elite cultivar	1994	Denmark 	2-row	Yes
+Draught	 Elite cultivar	1994	UK	2-row	Yes
+Henni	 Elite cultivar	1994	Germany	2-row	No
+Hopper	 Elite cultivar	1994	UK	2-row	Yes
+Inari	 Elite cultivar	1994	Finland	2-row	Yes
+Landlord	 Elite cultivar	1994	UK	2-row	No
+Lysimax	 Elite cultivar	1994	Denmark 	2-row	Yes
+Penthouse	 Elite cultivar	1994	UK	2-row	Yes
+Rainbow	 Elite cultivar	1994	UK	2-row	Yes
+Renata	 Elite cultivar	1994	Netherlands 	2-row	No
+Snakebite	 Elite cultivar	1994	UK	2-row	Yes
+Toddy	 Elite cultivar	1994	UK	2-row	Yes
+Torup	 Elite cultivar	1994	Sweden 	2-row	Yes
+Trosa	 Elite cultivar	1994	Sweden 	2-row	No
+Viivi	 Elite cultivar	1994	Finland	2-row	Yes
+Ardila	 Elite cultivar	1995	Netherlands 	2-row	Yes
+Avec	 Elite cultivar	1995	Spain 	2-row	No
+Blenheim	 Elite cultivar	1995	UK	2-row	No
+Chalice	 Elite cultivar	1995	UK	2-row	Yes
+Crusader	 Elite cultivar	1995	Netherlands 	2-row	Yes
+Extract	 Elite cultivar	1995	Netherlands 	2-row	No
+Gate	 Elite cultivar	1995	Latvia	2-row	Yes
+Linus	 Elite cultivar	1995	Sweden 	2-row	Yes
+Logan	 Elite cultivar	1995	Canada	2-row	Yes
+Madras	 Elite cultivar	1995	India	2-row	Yes
+Ricarda	 Elite cultivar	1995	UK	2-row	Yes
+Sencis	 Elite cultivar	1995	Latvia	2-row	Yes
+Spey	 Elite cultivar	1995	UK	2-row	Yes
+Thuringia	 Elite cultivar	1995	Germany	2-row	Yes
+Franklin	 Elite cultivar	1992	Austria 	2-row	Yes
+Dray	 Elite cultivar	1995	UK	2-row	Yes
+Optic	 Elite cultivar	1995	UK	2-row	No
+Livet	 Elite cultivar	1996	UK	2-row	Yes
+Barke	 Elite cultivar	1997	Germany	2-row	Yes
+Otira	 Elite cultivar	1997	UK	2-row	Yes
+Cocktail	 Elite cultivar	2003	UK	2-row	Yes
+Idumeja	 Elite cultivar	2001	Latvia	2-row	No
+Skegla	 Elite cultivar	2002	Iceland	2-row	Yes
+Quench	 Elite cultivar	2004	UK	2-row	Yes
+Kria	 Elite cultivar	2004	Iceland	2-row	No
+Concerto	 Elite cultivar	2006	UK	2-row	Yes
+Olympus	 Elite cultivar	2013	UK	2-row	Yes
+Tellus	 Elite cultivar	1970	Sweden 	2-row	No
+Goldfoil	 Elite cultivar	1968	Austria 	2-row	Yes
+Heils Franken			Germany	2-row	Yes
+Imula			Latvia	2-row	Yes
+Pflugs Intensiv	Old cultivar	1921	Germany	2-row	Yes
+Quantum	 Elite cultivar	2013	Austria 	2-row	No
+Riviera	 Elite cultivar	1992	UK	2-row	Yes
+Scarlett	 Elite cultivar	1995	Germany	2-row	Yes
+Stanza	 Elite cultivar	1984	UK	2-row	No
+Troon	 Elite cultivar	2002	Hungary	2-row	Yes
+Westminster	 Elite cultivar	2002	UK	2-row	Yes
+Corvette	 Elite cultivar	1976	UK	2-row	No
+Cooper	 Elite cultivar	1991	UK	2-row	Yes
+Bavaria -Ackermanns Bavaria	Old cultivar	1938	Germany	2-row	Yes
+Beatrix	 Elite cultivar	2003	Germany	2-row	Yes
+Camton	Old cultivar	1944	UK	2-row	No
+Chevalier D10	Landrace		UK	2-row	Yes
+Common	Old cultivar	1940	UK	Unknown	No
+Donnes			Norway	Unknown	No
+Earl	 Elite cultivar	1966	UK	Unknown	No
+Early Welsh	Landrace		UK	Unknown	No
+Eunova-gebeizt	Landrace		Austria 	Unknown	No
+Glasnevin 2	 Elite cultivar	1968	Ireland	2-row	Yes
+Golden Archer	Old cultivar	1932	UK	Unknown	No
+Goldfield	 Elite cultivar	1971	UK	Unknown	No
+Haidd Garw	Landrace		UK	Unknown	No
+Hen Haidd	Landrace		UK	Unknown	No
+KWS Irina	 Elite cultivar	2011	Sweden 	Unknown	No
+Mansholt			Netherlands 	Unknown	No
+MFB 104	 Elite cultivar	1966	Hungary	Unknown	No
+Novosadski 294	 Elite cultivar	1970	Yugoslavia	Unknown	No
+Chieftain	 Elite cultivar	1993		Unknown	No
+Pammers Hohenauer Vollkorn	Old cultivar	1915	Austria 	Unknown	No
+Plumage	Old cultivar	1900	UK	Unknown	No
+Plumage Archer	Old cultivar	1905	UK	Unknown	No
+Probsteiner Landgerste	Old cultivar	1900	Germany	Unknown	No
+Scotch Annat	Landrace		UK	Unknown	No
+Scotch Common			UK	Unknown	No
+Slovensky 802	Old cultivar	1946	Czech Republic 	Unknown	No
+Standwell	Old cultivar	1907	UK	Unknown	No
+Turquoise	Old cultivar	1908	France	Unknown	No
+Ursa-gebeizt	 Elite cultivar	2002	Germany	Unknown	No
+Propino	 Elite cultivar	2007	UK	2-row	Yes
+RGT Planet	 Elite cultivar	2014		2-row	No

@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+message: If you use this software or dataset, please cite it as below.
+type: dataset
+title: Unlocking the genetic diversity and population structure of the newly introduced
+  two-row spring European HerItage Barley collecTion (ExHIBiT)
+authors:
+- family-names: Bernád
+  given-names: Villő
+- family-names: Al-Tamimi
+  given-names: Nadia
+- family-names: Langan
+  given-names: Patrick
+- family-names: Gillespie
+  given-names: Gary
+- family-names: Dempsey
+  given-names: Timothy
+- family-names: Henchy
+  given-names: Joey
+- family-names: Harty
+  given-names: Mary
+- family-names: Ramsay
+  given-names: Luke
+- family-names: Houston
+  given-names: Kelly
+- family-names: Macaulay
+  given-names: Malcolm
+- family-names: Shaw
+  given-names: Paul D.
+- family-names: Raubach
+  given-names: Sebastian
+- family-names: Mcdonnel
+  given-names: Kevin P.
+- family-names: Russell
+  given-names: Joanne
+- family-names: Waugh
+  given-names: Robbie
+- family-names: Khodaeiaminjan
+  given-names: Mortaza
+- family-names: Negrão
+  given-names: Sónia
+identifiers:
+- description: This is the original paper source of this dataset
+  type: doi
+  value: 10.3389/fpls.2024.1268847
+date-released: '2024-03-20'
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Bernád
+    given-names: Villő
+  - family-names: Al-Tamimi
+    given-names: Nadia
+  - family-names: Langan
+    given-names: Patrick
+  - family-names: Gillespie
+    given-names: Gary
+  - family-names: Dempsey
+    given-names: Timothy
+  - family-names: Henchy
+    given-names: Joey
+  - family-names: Harty
+    given-names: Mary
+  - family-names: Ramsay
+    given-names: Luke
+  - family-names: Houston
+    given-names: Kelly
+  - family-names: Macaulay
+    given-names: Malcolm
+  - family-names: Shaw
+    given-names: Paul D.
+  - family-names: Raubach
+    given-names: Sebastian
+  - family-names: Mcdonnel
+    given-names: Kevin P.
+  - family-names: Russell
+    given-names: Joanne
+  - family-names: Waugh
+    given-names: Robbie
+  - family-names: Khodaeiaminjan
+    given-names: Mortaza
+  - family-names: Negrão
+    given-names: Sónia
+  doi: 10.3389/fpls.2024.1268847
+  journal: Frontiers in Plant Science
+  title: Unlocking the genetic diversity and population structure of the newly introduced
+    two-row spring European HerItage Barley collecTion (ExHIBiT)
+  year: 2024
+  date-released: '2024-03-20'

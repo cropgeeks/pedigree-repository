@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Barley yield associated networks (BARN)",
+    "description": "Genomic resources for a historical collection of cultivated two-row European spring barley genotypes.",
+    "files": {
+      "pedigree": "pedigree.helium",
+      "traits": ["trait-data.helium"]
+    },
+    "createdOn": "2024-01-12"
+  }
+]
